@@ -1,0 +1,12 @@
+changed apples.txt
+changed log.txt
+changed oranges.txt
+changed apples.txt
+changed oranges.txt
+changed log.txt
+changed apples.txt
+changed oranges.txt
+changed log.txt
+changed oranges.txt
+changed log.txt
+changed apples.txt
